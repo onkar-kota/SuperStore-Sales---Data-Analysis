@@ -4,6 +4,7 @@
 TODO: We have to analyse the given dataset and answer some questions based on analysis.
 ## Installation
 TODO: Here we are using  *Jupyter Notebook* for coding purpose and python libraries like pandas, numpy, matplotlib, seaborn, plotly.
+## Process
 1. Data manipulaiton
 2. Data processing
 3. Data frame transformation
